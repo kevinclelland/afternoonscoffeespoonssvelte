@@ -10,7 +10,7 @@
 	<svelte:fragment slot="header">
 		<AppBar gridColumns="grid-cols-3" slotDefault="place-self-center" slotTrail="place-content-end">
 			<svelte:fragment slot="lead">(icon)</svelte:fragment>
-			<h1 class="text-4xl">Afternoons Coffeespoons</h1>
+			<div class="flex"><p class="mx-2"><a href="/">HOME</a></p><p class="mx-2">SA LOVE</p><p class="mx-2">ABOUT</p></div>
 			<svelte:fragment slot="trail"><LightSwitch /></svelte:fragment>
 		</AppBar>
 	</svelte:fragment>
@@ -20,6 +20,6 @@
 	<!-- Router Slot -->
 	<slot />
 	<!-- ---- / ---- -->
-	<svelte:fragment slot="pageFooter">Page Footer</svelte:fragment>
+	<svelte:fragment slot="pageFooter"></svelte:fragment>
 	<!-- (footer) -->
 </AppShell>

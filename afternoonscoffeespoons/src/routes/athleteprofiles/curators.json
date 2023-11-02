@@ -1,0 +1,122 @@
+[
+	{
+		"title": "Rob Warren",
+		"id": "rob-warren",
+		"avatar": "/RW/profile.jpg",
+		"overview": "Singer, songwriter and guitarist",
+		"initials": "RW"
+		
+	},
+	{
+		"title": "Mark Fraser-Grant",
+		"id": "mark-fraser-grant",
+		"avatar": "/MFG/profile.jpg",
+		"overview": "A passionate Dad, Coach, Facilitator and Trainer",
+		"initials": "MFG"
+	},
+	{
+		"title": "David 'Qadasi' Jenkins",
+		"id": "david-jenkins",
+		"avatar": "/DJ/profile.jpg",
+		"overview": "SAMA Award-winning Maskandi Musician",
+		"initials": "DJ"
+	},
+	{
+		"title": "Martin Myers",
+		"id": "martin-myers",
+		"avatar": "/MM/profile.jpg",
+		"overview": "SA music guru, DJ, publicist and co-founder of Music Exchange",
+		"initials": "MM"
+	},
+	{
+		"title": "Brian Currin",
+		"id": "brian-currin",
+		"avatar": "/BC/profile.jpg",
+		"overview": "Playlist Creator & Web Marketer",
+		"initials": "BC"
+	},
+	{
+		"title": "Nicky Oliver",
+		"id": "nicky-oliver",
+		"avatar": "/NO/profile.jpg",
+		"overview": "Biokineticist",
+		"initials": "NO"
+	},
+	{
+		"title": "Quinton Naidoo",
+		"id": "quinton-naidoo",
+		"avatar": "/QN/profile.jpg",
+		"overview": "International Banker",
+		"initials": "QN"
+	},
+	{
+		"title": "Charis Marks",
+		"id": "charis-marks",
+		"avatar": "/CM/profile.jpg",
+		"overview": "Management Consultant",
+		"initials": "CM"
+	},
+	{
+		"title": "Terry O'Connor",
+		"id": "terry-oconnor",
+		"avatar": "/TO/profile.jpg",
+		"overview": "Tourism/Physiotherapist",
+		"initials": "TO"
+	},
+	{
+		"title": "Greg King",
+		"id": "greg-king",
+		"avatar": "/GK/profile.jpg",
+		"overview": "Theatre Artist",
+		"initials": "GK"
+	},
+	{
+		"title": "Shotgun Tori",
+		"id": "shotgun-tori",
+		"avatar": "/ST/profile.jpg",
+		"overview": "Alt/Folk Singer Songwriter",
+		"initials": "ST"
+	},
+	{
+		"title": "Robert Marks",
+		"id": "robert-marks",
+		"avatar": "/RM/profile.jpg",
+		"overview": "Insurance Analyst",
+		"initials": "RM"
+	},
+	{
+		"title": "Ant Farrant",
+		"id": "ant-farrant",
+		"avatar": "/AF/profile.jpg",
+		"overview": "Private Banker",
+		"initials": "AF"
+	},
+	{
+		"title": "Brett Roux",
+		"id": "brett-roux",
+		"avatar": "/BR/profile.jpg",
+		"overview": "Photographer/Entrepreneur",
+		"initials": "BR"
+	},
+	{
+		"title": "Willie JvR",
+		"id": "willie-jvr",
+		"avatar": "/WJ/profile.jpg",
+		"overview": "Human",
+		"initials": "WJ"
+	},
+	{
+		"title": "Kevin Clelland",
+		"id": "kevin-clelland",
+		"avatar": "/KC/profile.jpg",
+		"overview": "Product Owner",
+		"initials": "KC"
+	},
+	{
+		"title": "Claire Land",
+		"id": "claire-land",
+		"avatar": "/CL/profile.jpg",
+		"overview": "Test Profile",
+		"initials": "CL"
+	}
+]
