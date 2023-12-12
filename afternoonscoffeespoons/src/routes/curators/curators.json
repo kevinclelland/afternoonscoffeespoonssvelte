@@ -1,0 +1,194 @@
+[
+	{
+		"title": "Rob Warren",
+		"id": "rob-warren",
+		"avatar": "/RW/profile.jpg",
+		"overview": "Singer, songwriter and guitarist",
+		"initials": "RW",
+		"bio": "Singer, songwriter and guitarist for The Black Lapels.",
+		"albumcovers": ["/RW/a1.jpg","/RW/a2.jpg","/RW/a3.jpg","/RW/a4.jpg","/RW/a5.jpg","/RW/a6.jpg"],
+		"albumnames": ["Ten Summoner's Tales","Graceland","Woodface","Temple of Low Men","August and Everything After","Serious Hits... Live!"],
+		"albumartists": ["Sting","Paul Simon","Crowded House","Crowded House","Counting Crows","Phil Collins"]
+	
+	},
+	{
+		"title": "Mark Fraser-Grant",
+		"id": "mark-fraser-grant",
+		"avatar": "/MFG/profile.jpg",
+		"overview": "A passionate Dad, Coach, Facilitator and Trainer",
+		"initials": "MFG",
+		"bio": "Mark was born in Durban in 1967.",
+		"albumcovers": ["/MFG/a1.jpg","/MFG/a2.jpg","/MFG/a3.jpg","/MFG/a4.jpg","/MFG/a5.jpg","/MFG/a6.jpg","/MFG/a7.jpg","/MFG/a8.jpg","/MFG/a9.jpg","/MFG/a10.jpg","/MFG/a11.jpg","/MFG/a12.jpg","/MFG/a13.jpg","/MFG/a14.jpg"],
+		"albumnames": ["The Bends","The Stone Roses","Urban Hymns","The White Album","Who's Next","The Very Best of Otis Redding","Mezzanine","Murmer","Dummy","The Universal Want","Cheap Queen","A Deeper Understanding","Bridge Over Troubled Water","Leftism"],
+		"albumartists": ["Radiohead","The Stone Roses","The Verve","The Beatles","The Who","Otis Redding","Massive Attack","R.E.M.","Portishead","Doves","King Princess","The War on Drugs","Simon & Garfunkel","Leftfield"]
+		
+	},
+	{
+		"title": "David 'Qadasi' Jenkins",
+		"id": "david-jenkins",
+		"avatar": "/DJ/profile.jpg",
+		"overview": "SAMA Award-winning Maskandi Musician",
+		"initials": "DJ",
+		"bio": "Hailing from the heart of Zululand, David Qadasi Jenkins is a SAMA Award-winning Maskandi musician on a quest to revive the powerful sounds of traditional Zulu music. Having toured extensively both locally and abroad over the last 10 years, Qadasi's eclectic fusion of Maskandi and western folk music is successfully making its way into local and international music scenes.",
+		"albumcovers": ["/DJ/a1.jpg","/DJ/a2.jpg","/DJ/a3.jpg","/DJ/a4.jpg","/DJ/a5.jpg","/DJ/a6.jpg","/DJ/a7.jpg","/DJ/a8.jpg","/DJ/a9.jpg","/DJ/a10.jpg","/DJ/a11.jpg","/DJ/a12.jpg","/DJ/a13.jpg","/DJ/a14.jpg"],
+		"albumnames": ["Ngo '49","Khula Tshitshi Lami","Universal Men","African Litany","Graceland","Bridge Over Troubled Water","Back Home Again","Lunatic","Ceremonials","The Traveller","The Crow","Up From Below","Storm Boy","Abashokobezi"],
+		"albumartists": ["Phuzekhemisi","Mfaz' Omnyama","Juluka","Juluka","Paul Simon","Simon & Garfunkel","John Denver","Kongos","Florence + The Machine","Baaba Maal","Steve Martin","Edward Sharpe & The Magnetic Zeros","Xavier Rudd","Bambatha Mandela"]
+		
+	},
+	{
+		"title": "Martin Myers",
+		"id": "martin-myers",
+		"avatar": "/MM/profile.jpg",
+		"overview": "SA music guru, DJ, publicist and co-founder of Music Exchange",
+		"initials": "MM",
+		"bio": "A UCT graduate, and founder of the NPC Music Exchange, publicist and music manager, Martin Myers began his career in the music industry by running UCT Radio at the University of Cape Town back in 1985.",
+		"albumcovers": ["/MM/a1.jpg","/MM/a2.jpg","/MM/a3.jpg","/MM/a4.jpg","/MM/a5.jpg","/MM/a6.jpg","/MM/a7.jpg","/MM/a8.jpg","/MM/a9.jpg","/MM/a10.jpg"],
+		"albumnames": ["Look, Listen and Decide","The Ultimate Collection","Inside","Finding Beauty in Negative Spaces","Waiting for the Dawn","Rhythms of Africa","Heat, Dust and Dreams","Acceptance Speech: Re-written","Feel Good","Guz 2001"],
+		"albumartists": ["Stimela","Sipho Mabuse","RJ Benjamin","Seether","Big Sky","Soweto String Quartet","Johnny Clegg","HHP","Lira","Tkzee"]
+		
+	},
+	{
+		"title": "Brian Currin",
+		"id": "brian-currin",
+		"avatar": "/BC/profile.jpg",
+		"overview": "Playlist Creator & Web Marketer",
+		"initials": "BC",
+		"bio": "Playlist Creator & Web Marketer. The son of a church organist father and pianist mother, South African born Brian Currin grew up surrounded by music.",
+		"albumcovers": ["/BC/a1.jpg","/BC/a2.jpg","/BC/a3.jpg","/BC/a4.jpg","/BC/a5.jpg","/BC/a6.jpg","/BC/a7.jpg","/BC/a8.jpg","/BC/a9.jpg","/BC/a10.jpg"],
+		"albumnames": ["'n Suitcase Vol Winter","The Rise and Fall of Ziggy Stardust and the Spiders from Mars","Made in Japan","Selling England By The Pound","Hearing Earring","Aqualung","The Dark Side Of The Moon","Space Hymns","Cold Fact","Journey To The Centre Of The Earth"],
+		"albumartists": ["Piet Botha","David Bowie","Deep Purple","Genesis","Golden Earring","Jethro Tull","Pink Floyd","Ramases","Rodriguez","Rick Wakeman With The London Symphony Orchestra"]
+		
+	},
+	{
+		"title": "Kevin Clelland",
+		"id": "kevin-clelland",
+		"avatar": "/KC/profile.jpg",
+		"overview": "Product Owner",
+		"initials": "KC",
+		"bio": "Wide music tastes with high tolerance and easily inspired.",
+		"albumcovers": ["/KC/a1.jpg","/KC/a2.jpg","/KC/a3.jpg","/KC/a4.jpg","/KC/a5.jpg","/KC/a6.jpg","/KC/a7.jpg","/KC/a8.jpg","/KC/a9.jpg","/KC/a10.jpg","/KC/a11.jpg","/KC/a12.jpg","/KC/a13.jpg","/KC/a14.jpg","/KC/a15.jpg","/KC/a16.jpg"],
+		"albumnames": ["God Shuffled His Feet","Jagged Little Pill","Smash","O","The Places You Have Come To Fear The Most","Enema Of The State","Be Brave","Slap in the Face","Foiled","Hamilton","Phantom of the Opera","Rent","Wicked","Les Miserables","Born to Run","Aladdin"],
+		"albumartists": ["Crash Test Dummies","Alanis Morissette","The Offspring","Damien Rice","Dashboard Confessional","Blink 182","Shotgun Tori","Henry Ate","Blue October","Original Cast Recording","Original Motion Picture Soundtrack","Original Motion Picture Soundtrack","Original Cast Recording","Original Cast Recording","Bruce Springsteen","Original Cast Recording"]
+		
+	},
+	{
+		"title": "Nicky Oliver",
+		"id": "nicky-oliver",
+		"avatar": "/NO/profile.jpg",
+		"overview": "Biokineticist",
+		"initials": "NO",
+		"bio": "Once an avid sportswoman (paddling, hockey, running) now helping others move well. Growing up on a farm had little to do with struggling to cut her favourite albums down from 40!",
+		"albumcovers": ["/NO/a1.jpg","/NO/a2.jpg","/NO/a3.jpg","/NO/a4.jpg","/NO/a5.jpg","/NO/a6.jpg","/NO/a7.jpg","/NO/a8.jpg","/NO/a9.jpg","/NO/a10.jpg","/NO/a11.jpg","/NO/a12.jpg","/NO/a13.jpg","/NO/a14.jpg","/NO/a15.jpg","/NO/a16.jpg","/NO/a17.jpg","/NO/a18.jpg","/NO/a19.jpg","/NO/a20.jpg","/NO/a21.jpg","/NO/a22.jpg"],
+		"albumnames": ["1962-1966","Greatest Hits","The Free Electric Band","Greatest Hits","Graceland","In English","The Rising","Carryin on with Johnny Cash and June Carter","Tourism","Foiled","Aha Shake Heartbreak","Because of the Times","Hot Fuss","Clap Your Hands Say Yeah","Films About Ghosts","Street Gospels","Eyes Open","Inside In/Indisde Out","How to Save a Life","The Places You Have Come to Fear the Most","A Noise in the Void","Divinely Uninspired to a Hellish Extent"],
+		"albumartists":["The Beatles","The Beach Boys","Albert Hammond","Simon and Garfunkel","Paul Simon","Francoise Hardy","Bruce Springsteen","Johnny Cash and June Carter","Roxette","Blue October","Kings of Leon","Kings of Leon","The Killers","Clap Your Hands Say Yeah","Counting Crows","Bedouin Soundclash","Snow Patrol","The Kooks","The Fray","Dashboard Confessional","Kahn","Lewis Capaldi"]
+		
+	},
+	
+	{
+		"title": "Quinton Naidoo",
+		"id": "quinton-naidoo",
+		"avatar": "/QN/profile.jpg",
+		"overview": "International Banker",
+		"initials": "QN",
+		"bio": "South African living in London. Fan of Football, Film and far too much music.",
+		"albumcovers": ["/QN/a1.jpg","/QN/a2.jpg","/QN/a3.jpg","/QN/a4.jpg","/QN/a5.jpg","/QN/a6.jpg","/QN/a7.jpg","/QN/a8.jpg","/QN/a9.jpg","/QN/a10.jpg"],
+		"albumnames": ["Hot Fuss","Secret Samadhi","Blood Sugar Sex Magik","Dookie","Ten","The Joshua Tree","MTV Unplugged in New York","Use Your Illusion","Jagged Little Pill","Ok Computer"],
+		"albumartists": ["The Killers","Live","Red Hot Chili Peppers","Green Day","Pearl Jam","U2","Nirvana","Guns N' Roses","Alanis Morissette","Radiohead"]
+	},
+	{
+		"title": "Charis Marks",
+		"id": "charis-marks",
+		"avatar": "/CM/profile.jpg",
+		"overview": "Management Consultant",
+		"initials": "CM",
+		"bio": "Woman of Africa with international experience. Leader to young entrepreneurs. Music taste is not immune to the odd guilty pleasure.",
+		"albumcovers": ["/CM/a1.jpg","/CM/a2.jpg","/CM/a3.jpg","/CM/a4.jpg","/CM/a5.jpg","/CM/a6.jpg","/CM/a7.jpg","/CM/a8.jpg","/CM/a9.jpg","/CM/a10.jpg","/CM/a11.jpg","/CM/a12.jpg"],
+		"albumnames": ["Some Nights","Bad Blood","Life For Rent","Two lefts don't make a right...but three do","Free","Calogero","Greatest Hits","Ancient Voices","Don't Look Away","Sweeney Todd Soundtrack","Affirmation","Scala and Kolacny Brothers"],
+		"albumartists": ["Fun","Bastille","Dido","Relient K","David Degraw","Calogero","Tracy Chapman","Chiwoniso","Kate Voegele","Various Artists","Savage Garden","Scala and Kolacny Brothers"]
+		
+	},
+	{
+		"title": "Terry O'Connor",
+		"id": "terry-oconnor",
+		"avatar": "/TO/profile.jpg",
+		"overview": "Tourism/Physiotherapist",
+		"initials": "TO",
+		"bio": "From the UK and grew up surrounded by arguably one of the greatest music scenes.",
+		"albumcovers": ["/TO/a1.jpg","/TO/a2.jpg","/TO/a3.jpg","/TO/a4.jpg","/TO/a5.jpg","/TO/a6.jpg","/TO/a7.jpg","/TO/a8.jpg","/TO/a9.jpg","/TO/a10.jpg","/TO/a11.jpg","/TO/a12.jpg","/TO/a13.jpg","/TO/a14.jpg","/TO/a15.jpg","/TO/a16.jpg","/TO/a17.jpg","/TO/a18.jpg","/TO/a19.jpg","/TO/a20.jpg","/TO/a21.jpg","/TO/a22.jpg","/TO/a23.jpg","/TO/a24.jpg","/TO/a25.jpg","/TO/a26.jpg","/TO/a27.jpg","/TO/a28.jpg","/TO/a29.jpg","/TO/a30.jpg"],
+		"albumnames": ["Electric Warrior","The Slider","For Your Pleasure","Station to Station","Low","Here Comes The Warm Jets","In Your Mind","These Foolish Things","Dark Side of the Moon","Songs for Distingue Lovers","Girl as her Volcano","Transformer","Achtung Baby","Diana","2 (Melt)","Listen Without Prejudice","Black","Toshiyuke Watanabe","Song of Faith & Devotion","I am a bird now","Hounds of Love","The Practice of Everyday Life","Do you want the truth or something beautiful","Be Yourself Tonight","For Sentimental Reasons","Tunnel of Love","X&Y","Replicas","Band on the Run","Born to die"],
+		"albumartists": ["T.Rex","T.Rex","Roxy Music","David Bowie","David Bowie","ENO","Bryan Ferry","Bryan Ferry","Pink Floyd","Billie Holiday","Rickie Lee Jones","Lou Reed","U2","Diana Ross","Peter Gabriel","George Michael","Black","Paused Wind","Depeche Mode","Anthony & The Johnsons","Kate Bush","Bill Nelson","Paloma Faith","Eurythmics","Linda Ronstadt","Bruce Springsteen","Coldplay","Tubeway Army","Paul McCartney & Wings","Lana Del Rey"]
+		
+	},
+	{
+		"title": "Greg King",
+		"id": "greg-king",
+		"avatar": "/GK/profile.jpg",
+		"overview": "Theatre Artist",
+		"initials": "GK",
+		"bio": "I love the theatre in all its forms. My music choices feature creative adaptations of musical theatre numbers and jazz standards, storytelling through song, unique vocalists, harmony, humour and heart.",
+		"albumcovers": ["/GK/a1.jpg","/GK/a2.jpg","/GK/a3.jpg","/GK/a4.jpg","/GK/a5.jpg","/GK/a6.jpg","/GK/a7.jpg","/GK/a8.jpg","/GK/a9.jpg"],
+		"albumnames": ["An evening with Sutton Foster, live at the Cafe Carlyle","Deleted Scenes from the Cutting Room Floor","Liquid Spirit","Barefoot at the Symphony","Songs from the last century","Betcha Bottom Dollar","Breakfast on the morning tram","DeLovely","Twenty Something"],
+		"albumartists": ["Sutton Foster","Caro Emerald","Gregory Porter","Idina Menzel","George Michael","The Puppini Sisters","Stacey Kent","Various Artists","Jamie Cullum"]
+		
+	},
+	{
+		"title": "Shotgun Tori",
+		"id": "shotgun-tori",
+		"avatar": "/ST/profile.jpg",
+		"overview": "Alt/Folk Singer Songwriter",
+		"initials": "ST",
+		"bio": "“A little bit of folk; a little bit of country; a whole lot of raspy cut-to-the-heart feeling.” – Rolling Stone (SA)",
+		"albumcovers": ["/ST/a1.jpg","/ST/a2.jpg","/ST/a3.jpg","/ST/a4.jpg","/ST/a5.jpg","/ST/a6.jpg","/ST/a7.jpg","/ST/a8.jpg","/ST/a9.jpg","/ST/a10.jpg","/ST/a11.jpg","/ST/a12.jpg"],
+		"albumnames": ["Poses","Martha Wainwright","Dilate","Songs of Leonaed Cohen","Carpenters","Watching & Waiting","Gold","A Brief History...","The Highwomen","Wide Open Spaces","Car Wheels on a Gravel Road","TNTLC"],
+		"albumartists": ["Rufus Wainwright","Martha Wainwright","Ani DiFranco","Leonard Cohen","The Carpenters","Rambling Bones","Ryan Adams","The Waifs","The Highwomen","Dixie Chicks","Lucinda Williams","Boo!"]
+		
+	},
+	{
+		"title": "Robert Marks",
+		"id": "robert-marks",
+		"avatar": "/RM/profile.jpg",
+		"overview": "Insurance Analyst",
+		"initials": "RM",
+		"bio": "I play bass guitar. I write musicals. I know my music theory. So many favourite albums, such little time!",
+		"albumcovers": ["/RM/a1.jpg","/RM/a2.jpg","/RM/a3.jpg","/RM/a4.jpg","/RM/a5.jpg","/RM/a6.jpg","/RM/a7.jpg","/RM/a8.jpg","/RM/a9.jpg","/RM/a10.jpg","/RM/a11.jpg","/RM/a12.jpg","/RM/a13.jpg","/RM/a14.jpg","/RM/a15.jpg","/RM/a16.jpg","/RM/a17.jpg","/RM/a18.jpg","/RM/a19.jpg"],
+		"albumnames": ["Les Miserables","Kind of Blue","August and Everything After","Heavy Weather","Mercy Mercy Mercy","Quietly Now!","The Asylum Years","Blue","Graceland","Can't Buy a Thrill","Automatic for the People","Throwing Copper","Rebel Woman","Opposites","Songbook","Tramp","Rumours","Grace","Hail to the Thief"],
+		"albumartists": ["Original Cast Recording","Miles Davis","Counting Crows","Weather Report","Cannonball Adderley","Frightened Rabbit","Tom Waits","Joni Mitchell","Paul Simon","Steely Dan","R.E.M.","Live","Chiwoniso","Biffy Clyro","Chris Cornell","Sharon Van Etten","Fleetwood Mac","Jeff Buckley","Radiohead"]
+	
+	},
+	{
+		"title": "Ant Farrant",
+		"id": "ant-farrant",
+		"avatar": "/AF/profile.jpg",
+		"overview": "Private Banker",
+		"initials": "AF",
+		"bio": "Rockstar Banker by day, alternate man of mystery by night.",
+		"albumcovers": ["/AF/a1.jpg","/AF/a2.jpg","/AF/a3.jpg","/AF/a4.jpg","/AF/a5.jpg"],
+		"albumnames": ["Smash","The Battle of Los Angeles","Midnite Vultures","Travelling Without Moving","Brothers"],
+		"albumartists": ["The Offspring","Rage Against the Machine","Beck","Jamiroquai","The Black Keys"]
+		
+	},
+	{
+		"title": "Brett Roux",
+		"id": "brett-roux",
+		"avatar": "/BR/profile.jpg",
+		"overview": "Photographer/Entrepreneur",
+		"initials": "BR",
+		"bio": "Passionate about Africa and all things wildlife.",
+		"albumcovers": ["/BR/a1.jpg","/BR/a2.jpg","/BR/a3.jpg","/BR/a4.jpg","/BR/a5.jpg","/BR/a6.jpg","/BR/a7.jpg","/BR/a8.jpg","/BR/a9.jpg","/BR/a10.jpg","/BR/a11.jpg","/BR/a12.jpg","/BR/a13.jpg","/BR/a14.jpg"],
+		"albumnames": ["No Name Face","Dizzy Up The Girl","Only by night","All hat is Should Be","Dutch Courage","North","Bon Iver","Sigh No More","All the Stars and Boulevards","August and Everything After","Crowded House","Futures","A South African Story","In Between Dreams"],
+		"albumartists": ["Lifehouse","Goo Goo Dolls","Kings of Leon","Plush","aKing","Something Corporate","Bon Iver","Mumford & Sons","Augustana","Counting Crows","Crowded House","Jimmy Eat World","Johnny Clegg","Jack Johnson"]
+
+	},
+	{
+		"title": "Willie JvR",
+		"id": "willie-jvr",
+		"avatar": "/WJ/profile.jpg",
+		"overview": "Human",
+		"initials": "WJ",
+		"bio": "Chartered Accountant by education and work days are spent doing all things Operations. Husband, father and once a drummer.",
+		"albumcovers": ["/WJ/a1.jpg","/WJ/a2.jpg","/WJ/a3.jpg","/WJ/a4.jpg","/WJ/a5.jpg","/WJ/a6.jpg","/WJ/a7.jpg","/WJ/a8.jpg","/WJ/a9.jpg"],
+		"albumnames": ["Hot Fuss","All That You Can't Leave Behind","Parachutes","Whatever People Say I am, That's Whay I'm Not","Antichrist Superstar","MTV Unplugged in New York","Ten","Insomniac","Revamp: The SOngs of Elton John and Bernie Taupin"],
+		"albumartists": ["The Killers","U2","Coldplay","Arctic Monkeys","Marilyn Manson","Nirvana","Pearl Jam","Green Day","Various Artists"]
+		
+	}
+]
