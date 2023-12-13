@@ -44,7 +44,7 @@ if (vibeElement) {
 		<p class="italic vibe">...It's times like these you learn to live again...</p>
 		<p class="text-4xl">❤️</p>
 		<p class="text-2xl p-4">These are the albums you HAVE to listen to. They are not playlists. They are not singles.
-			They filled our ears and hearts and became the sole context that shaped our world. <br>
+			They filled our ears and hearts and became the sole context that shaped our world.<br>
 			They have defined lives.</p>
 
 
