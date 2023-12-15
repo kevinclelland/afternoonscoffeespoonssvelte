@@ -1,8 +1,9 @@
 <script lang="ts">
 	import '../app.postcss';
 
-	
+	import PageTransition from './transition.svelte';
 	import { AppShell, AppBar, LightSwitch } from '@skeletonlabs/skeleton';
+	export let data;
 </script>
 
 
@@ -18,7 +19,9 @@
 	<!-- (sidebarRight) -->
 	
 	<!-- Router Slot -->
-	<slot />
+	<PageTransition url={data.url}>
+		<slot />
+	</PageTransition>
 	<!-- ---- / ---- -->
 	<svelte:fragment slot="pageFooter"></svelte:fragment>
 	<!-- (footer) -->
