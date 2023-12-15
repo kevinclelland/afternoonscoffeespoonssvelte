@@ -40,8 +40,8 @@ if (vibeElement) {
 
 <div class="text-center mx-auto flex justify-center items-center max-w-4xl">
 	<div class="space-y-2">
-		<h1 class="text-7xl p-4">Afternoons Coffeespoons</h1>
-		<p class="italic vibe">...It's times like these you learn to live again...</p>
+		<h1 class="text-6xl p-4">Afternoons Coffeespoons</h1>
+		<p class="italic vibe max-w-sm mx-auto h-11">...It's times like these you learn to live again...</p>
 		<p class="text-4xl">❤️</p>
 		<p class="text-2xl p-4">These are the albums you HAVE to listen to. They are not playlists. They are not singles.
 			They filled our ears and hearts and became the sole context that shaped our world.<br>
@@ -56,12 +56,12 @@ if (vibeElement) {
 				</div>
 				<a href="/curators" title="Go to Curators"
 					class="relative inline-flex items-center justify-center px-8 py-4 text-lg font-bold text-white transition-all duration-200 bg-gray-900 font-pj rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"
-					role="button">Press Play
+					role="button">▶ Play
 				</a>
 			</div>
 			
 
-			<img src="/cassetteAC5.png" alt="AC Logo" class="mx-auto max-w-md">
+			<img src="/cassetteAC5.png" alt="AC Logo" class="mx-auto max-w-full">
 
 
 	</div>

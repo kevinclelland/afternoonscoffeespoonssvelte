@@ -36,7 +36,7 @@ let albums = [
 
 <div class="text-center text-6xl p-4">SA Love</div>
     
-<p class="text-center max-w-md mx-auto">Some worldclass South African musicians. Follow the playlist on Spotify or click on the album covers to listen (only The Black Lapels and The Kickstands for now).</p>
+<p class="text-center max-w-md mx-auto">Some world class South African musicians. Follow the playlist on Spotify.</p>
 
 <iframe class="max-w-lg mx-auto m-4" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/25m6KgekuU7Fp6R5izHeef?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" title="spotify playlist"></iframe>
     

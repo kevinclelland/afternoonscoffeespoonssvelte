@@ -9,8 +9,8 @@
 <AppShell regionPage="relative" slotPageHeader="sticky top-0 z-10">
 	<svelte:fragment slot="header">
 		<AppBar gridColumns="grid-cols-3" slotDefault="place-self-center" slotTrail="place-content-end">
-			<svelte:fragment slot="lead">Afternoons Coffeespoons</svelte:fragment>
-			<div class="flex items-center"><p class="mx-2"><a href="/">HOME</a></p><p class="mx-2 text-center"><a href="/salove">SA LOVE</a></p><p class="mx-2"><a href="/about">ABOUT</a></p></div>
+			<svelte:fragment slot="lead"><div class="hidden text-2xl md:block">Afternoons Coffeespoons</div><div class="md:hidden text-4xl font-bold">AC</div></svelte:fragment>
+			<div class="flex items-center"><p class="mx-1"><a href="/">HOME</a></p><p class="mx-1"><a href="/curators">CURATORS</a></p><p class="mx-1 text-center"><a href="/salove">SA LOVE</a></p><p class="mx-1"><a href="/about">ABOUT</a></p></div>
 			<svelte:fragment slot="trail"><LightSwitch /></svelte:fragment>
 		</AppBar>
 	</svelte:fragment>

@@ -1,6 +1,6 @@
 <div class="text-center text-6xl p-4">Afternoons Coffeespoons</div>
 
-<p class="max-w-2xl text-center mx-auto text-2xl">
+<p class="max-w-sm text-center mx-auto text-2xl">
 
 A home for life defining albums. No playlists. No singles.
 <br><br>
@@ -16,7 +16,7 @@ The name is inspired by the Crash Test Dummies song "Afternoons & Coffeespoons" 
 
 <p class="text-center text-4xl p-6">Keep in touch!</p>
 
-<p class="max-w-2xl text-center mx-auto text-2xl">
+<p class="max-w-xl text-center mx-auto text-2xl">
     Email: kevin@afternoonscoffeespoons.com
     <br>
     Twitter: @ACoffeespoons
