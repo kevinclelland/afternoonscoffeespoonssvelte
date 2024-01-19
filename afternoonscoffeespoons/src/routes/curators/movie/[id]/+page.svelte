@@ -2,7 +2,7 @@
 	import { page } from '$app/stores';
 
 	$: curator = data.curators.find((curator) => curator.id === $page.params.id);
-
+	let element: HTMLElement;
 	export let data;
 
 </script>
@@ -14,7 +14,7 @@
 		
 	<div class="mx-auto max-w-sm p-4">
 	<div class="col-span-1 card card-hover overflow-hidden">
-		<header class="flex justify-around">
+		<header class="flex justify-around" bind:this={element}>
 		<img class="bg-black/50 max-w-fill" src={curator.avatar} alt={curator.title}/>
 		</header>
 	<div class="p-4 space-y-4">
@@ -62,7 +62,7 @@
 	{#each data.curators as curator}
 		<div class="col-span-1 card card-hover overflow-hidden max-w-xs">
 			<header class="flex justify-around">
-				<a href="/curators/movie/{curator.id}"><img src={curator.avatar} class="bg-black/50 max-w-fill" alt="Post" /></a>
+				<a href="/curators/movie/{curator.id}" on:click={() => element.scrollIntoView()}><img src={curator.avatar} class="bg-black/50 max-w-fill" alt="Post" /></a>
 			</header>
 			<div class="p-4 space-y-4">
 				<h3 class="h3"><a href="/curators/movie/{curator.id}" class="title">{curator.title}</a></h3>

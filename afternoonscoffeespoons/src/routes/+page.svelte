@@ -11,7 +11,6 @@ const vibes = [
   "'...I want to have the same last dream again. The one where I wake up and I'm alive...'",
   "'...be the change you want to see, revolutions don't come easily...'",
   "'...Young Boy, Shoreline, Big World and he's not done...'",
-  "'...So this is the verse where I'll say goodbye, and let you fade away. And this is the song that I'll give to you...'",
   "'...and there's still love and that's enough, that's enough, that's enough, that's enough grace...'",
   "'...I'm waiting for blood, to flow to my fingers. I'll be all right when my hands get warm...'",
   "'...I, I'm a new day rising. I'm a brand new sky, to hang the stars upon tonight...'"
@@ -31,7 +30,7 @@ if (vibeElement) {
 	vibeElement.innerHTML = vibe;
 }
 
-}, 8000);
+}, 4000);
 });
 
 
@@ -39,13 +38,11 @@ if (vibeElement) {
 
 
 <div class="text-center mx-auto flex justify-center items-center max-w-4xl">
-	<div class="space-y-2">
-		<h1 class="text-6xl p-4">Afternoons Coffeespoons</h1>
-		<p class="italic vibe max-w-sm mx-auto h-11">...It's times like these you learn to live again...</p>
-		<p class="text-4xl">❤️</p>
-		<p class="text-2xl p-4">These are the albums you HAVE to listen to. They are not playlists. They are not singles.
-			They filled our ears and hearts and became the sole context that shaped our world.<br>
-			They have defined lives.</p>
+	<div class="">
+		<h1 class="text-4xl sm:text-6xl p-4">Afternoons Coffeespoons</h1>
+		<p class="font-grapenuts vibe text-xl max-w-sm mx-auto h-14 p-2">...It's times like these you learn to live again...</p>
+		<p class="text-4xl p-4">❤️</p>
+		<p class="text-2xl p-4">Music albums that have changed, shaped and defined lives.</p>
 
 
 
@@ -61,7 +58,22 @@ if (vibeElement) {
 			</div>
 			
 
-			<img src="/cassetteAC5.png" alt="AC Logo" class="mx-auto max-w-full">
+			<img src="/cassetteAC5.png" alt="AC Logo" class="mx-auto p-4 max-w-full">
+
+			<div class="text-center mx-auto text-xl sm:text-2xl">
+				
+
+				<p class="p-2">A desk, an afternoon, an abundance of time.</p>
+				<p class="p-2">Your music player, a cup of coffee, a stack of albums.</p>
+				<p class="p-2">The only relativity the Afternoon has is your stirring of a Coffeespoon while the kettle boils yet again.</p>
+				<p class="max-w-2xl text-center mx-auto text-2xl italic m-6">
+					"...Afternoons will be measured out...measured out, measured with Coffeespoons and T.S. Eliot"
+					</p>
+				<p class="p-2 text-xl">The name is inspired by the Crash Test Dummies song "Afternoons & Coffeespoons" which took inspiration from the poem The Love Song of J. Alfred Prufrock by T.S Eliot.</p>
+				
+				
+				<p class="p-4 text-xl">Email: kevin@afternoonscoffeespoons.com</p>
+			</div>
 
 
 	</div>
