@@ -4,7 +4,7 @@ let albums = [
 {albumcover: "/RSA/a2.jpg", albumname: "The Lukka EP", albumartist: "The Kickstands"},{albumcover: "/RSA/a3.jpg", albumname: "Watching & Waiting", albumartist: "Rambling Bones"},
 {albumcover: "/RSA/a4.jpg", albumname: "Be Brave", albumartist: "Shotgun Tori"},
 {albumcover: "/RSA/a5.jpg", albumname: "Son of Old", albumartist: "Son Of Old"},
-{albumcover: "/RSA/a6.jpg", albumname: "My Heart Belongs in Africa", albumartist: "Haylea Heyns"},
+{albumcover: "/RSA/a6.jpg", albumname: "In Parallel", albumartist: "Silent Generator"},
 {albumcover: "/RSA/a7.jpg", albumname: "Buried", albumartist: "Tim Johnson"},
 {albumcover: "/RSA/a8.jpg", albumname: "All that is should be", albumartist: "Plush"},
 {albumcover: "/RSA/a9.jpg", albumname: "Ubaba", albumartist: "Urban Village"},
@@ -30,7 +30,8 @@ let albums = [
 {albumcover: "/RSA/a29.jpg", albumname: "Dutch Courage", albumartist: "aKING"},
 {albumcover: "/RSA/a30.jpg", albumname: "Tree63", albumartist: "Tree63"},
 {albumcover: "/RSA/a31.jpg", albumname: "Something for now", albumartist: "Just Jinjer"},
-{albumcover: "/RSA/a32.jpg", albumname: "Home is where the music is", albumartist: "Hugh Masekela"}]
+{albumcover: "/RSA/a32.jpg", albumname: "Home is where the music is", albumartist: "Hugh Masekela"},
+{albumcover: "/RSA/a33.jpg", albumname: "My Heart Belongs in Africa", albumartist: "Haylea Heyns"}]
 
 </script>
 
