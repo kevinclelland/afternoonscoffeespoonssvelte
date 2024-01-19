@@ -58,7 +58,7 @@ if (vibeElement) {
 			</div>
 			
 
-			<img src="/cassetteAC5.png" alt="AC Logo" class="mx-auto p-4 max-w-full">
+			<img src="/cassette.webp" alt="AC Logo" class="mx-auto p-4 max-w-full">
 
 			<div class="text-center mx-auto text-xl sm:text-2xl">
 				
