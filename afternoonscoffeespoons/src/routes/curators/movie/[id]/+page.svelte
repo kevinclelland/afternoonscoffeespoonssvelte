@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { page } from '$app/stores';
+	import { Avatar } from '@skeletonlabs/skeleton';
 
 	$: curator = data.curators.find((curator) => curator.id === $page.params.id);
 	let element: HTMLElement;
@@ -54,11 +55,35 @@
 	
 	
 {/if}
-    <hr class="mt-4">
+
+<hr class="mt-4">
+
 <div class="text-center text-6xl p-4 mt-6">Other Curators</div>
 
 <div class="mx-auto text-token justify-items-center grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-4 p-4">
 	<!-- Detailed -->
+	{#each data.curators as curator}
+		<div class="col-span-1 card card-hover overflow-hidden w-56">
+			<header class="flex justify-around p-4">
+				<a href="/curators/movie/{curator.id}" on:click={() => element.scrollIntoView()}><Avatar src={curator.avatar} width="w-32" rounded="rounded-full" /></a>
+			</header>
+			<div class="p-4 space-y-4">
+				<h3 class="h3"><a href="/curators/movie/{curator.id}" class="title">{curator.title}</a></h3>
+
+				
+			</div>
+
+			
+		</div>
+	{/each}
+</div>
+
+<!--
+    <hr class="mt-4">
+<div class="text-center text-6xl p-4 mt-6">Other Curators</div>
+
+<div class="mx-auto text-token justify-items-center grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-4 p-4">
+	
 	{#each data.curators as curator}
 		<div class="col-span-1 card card-hover overflow-hidden max-w-xs">
 			<header class="flex justify-around">
@@ -76,3 +101,4 @@
 		</div>
 	{/each}
 </div>
+-->

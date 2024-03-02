@@ -1,4 +1,17 @@
 [
+	
+	{
+		"title": "Richard Harris",
+		"id": "richard-harris",
+		"avatar": "/RH/profile.jpg",
+		"overview": "Obsessed music curator plying his trade in the Corporate game.",
+		"initials": "RH",
+		"bio": "Always been curating the perfect mixed tape, CD and now playlist. Into Blink 182 before they became cool.",
+		"albumcovers": ["/RH/a1.jpg","/RH/a2.jpg","/RH/a3.jpg","/RH/a4.jpg","/RH/a5.jpg","/RH/a6.jpg","/RH/a7.jpg","/RH/a8.jpg","/RH/a9.jpg","/RH/a10.jpg","/RH/a11.jpg","/RH/a12.jpg","/RH/a13.jpg","/RH/a14.jpg","/RH/a15.jpg"],
+		"albumnames": ["Rise Ye Sunken Ships","Enema of the State","Smash","Darlings","North","Everything in Transit","Tell All Your Friends","Winter of Mixed Drinks","Boxer","Islands","Prisoner","Only Revolutions","Deja Entendu","No Name Face","Gravity"],
+		"albumartists": ["We Are Augustines","Blink 182","The Offspring","The Bronze Medal","Something Corporate","Jack's Mannequin","Taking Back Sunday","Frightened Rabbit","The National","Bear's Den","The Jezebels","Biffy Clyro","Brand New","Lifehouse","Our Lady Peace"]
+	
+	},
 	{
 		"title": "Rob Warren",
 		"id": "rob-warren",
